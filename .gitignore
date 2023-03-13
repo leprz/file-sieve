@@ -4,6 +4,7 @@
 dist
 tmp
 /out-tsc
+/packages/file-sieve/src/tests
 
 # dependencies
 node_modules
